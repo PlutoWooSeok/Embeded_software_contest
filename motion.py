@@ -53,7 +53,7 @@ class Robot():
         time.sleep(T)
 
         
-
+#
     def walk12(self, T =1.8):
 
         for i in range(6):
