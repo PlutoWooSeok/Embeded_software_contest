@@ -1,1 +1,1 @@
-# Embebed_software_contest
+# Embeded_software_contest
