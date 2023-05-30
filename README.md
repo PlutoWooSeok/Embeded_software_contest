@@ -22,3 +22,18 @@
  
 ### Development
 ![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white)
+
+##  Explain Code 📦
+
+### ⭐️ alpha.py
+- OpenCV contour기능을 활용한 Line trace 기능 구현
+- 재난지역(a,b,c,d) 판별 기능 및 동서남북, 이동방향(화살표) 인식 기능 구현
+
+### ⭐️ motion.py
+- 로봇의 통신을 통한 로봇 동작 실행 함수 구현
+
+### ⭐️ robobasicMotion
+- 로보베이직을 통한 로봇의 모터값을 비롯한 세팅값 조정
+
+### ⭐️ finish.py
+- main 코드로 로봇의 프로그램을 실행시 자동으로 로봇의 카메라를 통해 영상을 처리해 상황 별 로봇 동작 수행
